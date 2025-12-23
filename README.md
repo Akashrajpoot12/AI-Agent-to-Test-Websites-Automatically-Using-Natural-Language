@@ -11,7 +11,7 @@ templates/
   - main.html         - Fixed landing page
 static/
   - style.css         - Improved styling with all fixes
-auth.db               - SQLite database (auto-created)
+
 ```
 
 ## Running the Application:
@@ -49,3 +49,4 @@ python app.py
 - `/agent` simple LangGraph agent that parses NL testing instructions
 
 - `/testpage` static page for Playwright-driven interactions
+
