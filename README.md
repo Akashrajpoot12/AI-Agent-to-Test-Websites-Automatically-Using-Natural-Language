@@ -1,6 +1,6 @@
 # Flask Authentication System - Implementation Summary
 
-### . **File Structure**
+###  **File Structure**
 ```
 app.py                 - Main Flask application with database integration
 templates/
@@ -49,4 +49,5 @@ python app.py
 - `/agent` simple LangGraph agent that parses NL testing instructions
 
 - `/testpage` static page for Playwright-driven interactions
+
 
